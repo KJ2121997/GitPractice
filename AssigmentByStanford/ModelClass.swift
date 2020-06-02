@@ -88,6 +88,8 @@ class ModelClass
         
     }
     
+    
+    
     func isValidToAdd()->Bool
     {
         if(listOfSelectedArray.count<24)
