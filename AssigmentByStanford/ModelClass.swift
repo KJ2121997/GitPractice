@@ -89,6 +89,7 @@ class ModelClass
     }
     
     
+    //my new comment
     
     func isValidToAdd()->Bool
     {
